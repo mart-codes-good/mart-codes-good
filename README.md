@@ -2,7 +2,7 @@
 
 Most of my work sits somewhere between **AI systems, backend development, and low-level graphics programming**. I enjoy taking ideas from "this is cool" to a working prototype, whether that's an AI tool, a simulation engine, or some random side project.
 
-Currently learning a lot about **AI pipelines, system architecture, and real-time graphics** while working on AI-based systems.
+Currently working on AI-based systems while continuing to learn more about AI pipelines and backend architecture. I’ve also explored graphics programming and simulation projects.
 
 Feel free to reach me at **tejada.mrt@gmail.com**
 
