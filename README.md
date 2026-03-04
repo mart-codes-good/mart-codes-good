@@ -1,4 +1,4 @@
-# Hi, I'm Martin ⚙️
+## Hi, I'm Martin ⚙️
 
 Most of my work sits somewhere between **AI systems, backend development, and low-level graphics programming**. I enjoy taking ideas from "this would be cool" to a working prototype — whether that's an AI tool, a simulation engine, or some random side project.
 
@@ -6,7 +6,7 @@ Currently learning a lot about **AI pipelines, system architecture, and real-tim
 
 Feel free to reach me at **tejada.mrt@gmail.com**
 
----
+
 
 ## Some Projects
 
@@ -17,7 +17,7 @@ Includes camera movement, AABB collision detection, and hitscan mechanics.
 **Context-Aware AI Chatbot**  
 Desktop chatbot built with Python + PyQt that tracks conversation context and supports speech input.
 
----
+
 
 ## Frameworks I normally work with
 
