@@ -1,6 +1,6 @@
 ## Hi, I'm Martin 🤞🏼
 
-Most of my work sits somewhere between AI systems, backend development, and low-level graphics programming. I enjoy reverting spaghetti back to their original ingredients, when doing so is solving software issues.
+Most of my work sits somewhere between AI systems, backend development, and low-level graphics. I enjoy reverting spaghetti back to their original ingredients, when doing so is solving software issues.
 
 Currently working on AI-based systems while continuing to learn more about AI pipelines and backend architecture. I’ve also explored graphics programming and simulation projects.
 
