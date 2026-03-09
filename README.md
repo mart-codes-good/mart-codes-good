@@ -1,6 +1,6 @@
 ## Hi, I'm Martin 🤞🏼
 
-Most of my work sits somewhere between AI systems, backend development, and low-level graphics. \n
+Most of my work sits somewhere between AI systems, backend development, and low-level graphics. 
 Currently working on AI-based systems while continuing to learn more about AI pipelines and backend architecture. 
 
 Feel free to reach me at **tejada.mrt@gmail.com**
