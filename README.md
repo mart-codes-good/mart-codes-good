@@ -1,12 +1,9 @@
 ## Hi, I'm Martin 🤞🏼
 
-Most of my work sits somewhere between AI systems, backend development, and low-level graphics. I enjoy reverting spaghetti back to their original ingredients, when doing so is solving software issues.
-
-Currently working on AI-based systems while continuing to learn more about AI pipelines and backend architecture. I’ve also explored graphics programming and simulation projects.
+Most of my work sits somewhere between AI systems, backend development, and low-level graphics.
+Currently working on AI-based systems while continuing to learn more about AI pipelines and backend architecture. 
 
 Feel free to reach me at **tejada.mrt@gmail.com**
-
-
 
 ## Some Projects
 
@@ -16,8 +13,6 @@ Includes camera movement, AABB collision detection, and hitscan mechanics.
 
 **Context-Aware AI Chatbot**  
 Desktop chatbot built with Python + PyQt that tracks conversation context and supports speech input.
-
-
 
 ## Frameworks I normally work with
 
