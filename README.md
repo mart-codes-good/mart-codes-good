@@ -5,6 +5,14 @@ Currently working on AI-based systems while continuing to learn more about AI pi
 
 Feel free to reach me at **tejada.mrt@gmail.com**
 
+## Previous Work
+**AI Backend Engineer (Intern) @ Dazia Consulting Inc.**
+
+Documented, tested, and validated core application features and system behavior.
+Enhanced backend systems by implementing multi-turn conversational memory and improving overall architecture.
+
+Designed application database using Supabase and routes for create, read, update, and delete operations.
+
 ## Some Projects
 
 **3D Simulation Engine (ongoing development)**  
