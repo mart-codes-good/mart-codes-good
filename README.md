@@ -12,7 +12,7 @@ Expanded and deployed an AI-powered learning platform from prototype to producti
 
 Built and improved backend systems, including multi-turn conversational memory, tested and ensured application behaviors works as intended.
 
-Designed the application database (with SupaBase) and implemented CRUD APIs for chat, flashcards, and quiz features.
+Designed the application database (with Supabase) and implemented CRUD APIs for chat, flashcards, and quiz features.
 
 ## Some Projects
 
@@ -29,10 +29,10 @@ Desktop chatbot built with Python + PyQt that tracks conversation context and su
 Python • Java • JavaScript • C
 
 **AI / Data**  
-OpenAI API • Gemini API • RAG pipelines • OCR systems
+OpenAI API • Gemini API • RAG pipelines • OCR systems • Supabase 
 
 **Tools**  
-Node.js • Express • Docker • OpenGL • Git • VS Code
+Node.js • Express • Docker • OpenGL • Git • VS Code 
 <!---
 mart-codes-good/mart-codes-good is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
