@@ -10,9 +10,9 @@ Feel free to reach me at **tejada.mrt@gmail.com**
 
 Expanded and deployed an AI-powered learning platform from prototype to production.
 
-Built and improved backend systems, including multi-turn conversational memory, while testing and validating core application behavior.
+Built and improved backend systems, including multi-turn conversational memory, tested and ensured application behaviors works as intended.
 
-Designed the application database (with SupaBase) and implemented CRUD APIs for chat, flashcards, and quiz features
+Designed the application database (with SupaBase) and implemented CRUD APIs for chat, flashcards, and quiz features.
 
 ## Some Projects
 
