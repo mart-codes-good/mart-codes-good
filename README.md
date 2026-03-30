@@ -6,13 +6,13 @@ Currently working on AI-based systems while continuing to learn more about AI pi
 Feel free to reach me at **tejada.mrt@gmail.com**
 
 ## Previous Work
-**AI Backend Engineer (Intern) @ Dazia Consulting Inc.**
+**Backend Developer @ Dazia Consulting Inc.**
 
-Expanded and deployed an AI-powered learning platform from prototype status to production, delivered through Riipen Level Up Program.
+Expanded and deployed an AI-powered learning platform from prototype to production.
 
-Enhanced backend systems, documented, tested, and validated core application features and system behavior.
+Built and improved backend systems, including multi-turn conversational memory, while testing and validating core application behavior.
 
-Designed application database (Supabase) and CRUD operations.
+Designed the application database (with SupaBase) and implemented CRUD APIs for chat, flashcards, and quiz features
 
 ## Some Projects
 
