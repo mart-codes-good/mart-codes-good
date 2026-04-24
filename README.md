@@ -25,14 +25,21 @@ Desktop chatbot built with Python + PyQt that tracks conversation context and su
 
 ## Frameworks I normally work with
 
-**Languages**  
-Python • Java • JavaScript • C
+### **Languages** <br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+
 
 **AI / Data**  
 OpenAI API • Gemini API • RAG pipelines • OCR systems • Supabase 
 
 **Tools**  
 Node.js • Express • Docker • OpenGL • Git • VS Code 
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
 <!---
 mart-codes-good/mart-codes-good is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
