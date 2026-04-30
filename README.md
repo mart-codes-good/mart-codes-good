@@ -1,6 +1,8 @@
 <div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/3b90fc2c-5d52-4fde-bd0b-343a8399e5da" />" 
 </div>
+
+## About me
 I’m Martin, a senior CS student with backend development experience. 
 
 Most of my work ranges from AI systems, model analysis, physics simulations, game development, and general software development.  
