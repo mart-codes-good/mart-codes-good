@@ -1,9 +1,13 @@
-## Hi, I'm Martin 🤞🏼
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/3b90fc2c-5d52-4fde-bd0b-343a8399e5da" />" 
+</div>
+I’m Martin, a senior CS student with backend development experience. 
 
-Most of my work sits somewhere between AI systems, backend development, and low-level graphics. 
-Currently working on AI-based systems while continuing to learn more about AI pipelines and backend architecture. 
+Most of my work ranges from AI systems, model analysis, physics simulations, game development, and general software development.  
 
-Feel free to reach me at **tejada.mrt@gmail.com**
+I am currently enrolled in a computer security course, so I am excited to see what I will learn and what projects I can build.
+
+Feel free to reach me at tejada.mrt@gmail.com, and to take a look around my repositories! 
 
 ## Previous Work
 **Backend Developer @ Dazia Consulting Inc.**
@@ -16,25 +20,29 @@ Designed the application database (with Supabase) and implemented CRUD APIs for 
 
 ## Some Projects
 
-**3D Simulation Engine (ongoing development)**  
-A first-person simulation engine written in C using OpenGL.  
-Includes camera movement, AABB collision detection, and hitscan mechanics.
+**[3D Simulation Engine (ongoing development)](https://github.com/mart-codes-good/3D-Simulation-Engine-Alpaca-Engine-1)** <br>
+A first-person simulation engine written in C using OpenGL.<br>
+Includes original camera movement, AABB collision detection, and hitscan libraries.
 
-**Context-Aware AI Chatbot**  
-Desktop chatbot built with Python + PyQt that tracks conversation context and supports speech input.
+**[IDP (Intelligent Document Processor) Assistant](https://github.com/mart-codes-good/Smart-PDF-Assistant-IDP-)** <br>
+A system that scans PDF files and uses them to provide context for a conversational chatbot assistant to answer specific queries about such files, with a UI designed and implemented using Gradio. <br>
+
+Uses Hugging Face embedding models with Llama Index for retrieval augmented generation (RAG) and uses PyMuPDF for character recognition (OCR).
+
+**[Context-Aware AI Chatbot](https://github.com/mart-codes-good/AI-Chatbot---Ranran-Chatbot)** <br>
+Desktop chatbot with multi-turn memory built using both Python and OpenAI API.<br>
+Supports speech-to-text translations, featuring an animated avatar and a frontend built with PyQt6.
 
 ## Frameworks I normally work with
 
 ### **Languages** <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-<!-- The languages are Java, Python, C, Javascript, and Lua -->
 
-### **AI / Data**  
-OpenAI API • Gemini API • RAG pipelines • OCR systems • Supabase 
+### **AI / ML**  
+PyMuPDF • Easy OCR • Llama Index • Hugging Face
 
 ### **Tools**  
-Node.js • Express • Docker • OpenGL • Git • VS Code 
-
+Node.js • Express • Docker • Supabase •  OpenGL • Git • VS Code
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
