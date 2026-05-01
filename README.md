@@ -23,17 +23,16 @@ Designed the application database (with Supabase) and implemented CRUD APIs for 
 ## Some Projects
 
 **[3D Simulation Engine (ongoing development)](https://github.com/mart-codes-good/3D-Simulation-Engine-Alpaca-Engine-1)** <br>
-A first-person simulation engine written in C using OpenGL.<br>
-Includes original camera movement, AABB collision detection, and hitscan libraries.
+* A first-person simulation engine written in C using OpenGL.<br>
+* Includes original camera movement, AABB collision detection, and hitscan libraries.
 
 **[IDP (Intelligent Document Processor) Assistant](https://github.com/mart-codes-good/Smart-PDF-Assistant-IDP-)** <br>
-A system that scans PDF files and uses them to provide context for a conversational chatbot assistant to answer specific queries about such files, with a UI designed and implemented using Gradio. <br>
-
-Uses Hugging Face embedding models with Llama Index for retrieval augmented generation (RAG) and uses PyMuPDF for character recognition (OCR).
+* A system that scans PDF files and uses them to provide context for a conversational chatbot assistant to answer specific queries about such files, with a UI designed and implemented using Gradio. <br>
+* Uses Hugging Face embedding models with Llama Index for retrieval augmented generation (RAG) and uses PyMuPDF for character recognition (OCR).
 
 **[Context-Aware AI Chatbot](https://github.com/mart-codes-good/AI-Chatbot---Ranran-Chatbot)** <br>
-Desktop chatbot with multi-turn memory built using both Python and OpenAI API.<br>
-Supports speech-to-text translations, featuring an animated avatar and a frontend built with PyQt6.
+* Desktop chatbot with multi-turn memory built using both Python and OpenAI API.<br>
+* Supports speech-to-text translations, featuring an animated avatar and a frontend built with PyQt6.
 
 ## Frameworks I normally work with
 
