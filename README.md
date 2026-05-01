@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3b90fc2c-5d52-4fde-bd0b-343a8399e5da" alt="My Profile Banner" width="100%">
+  <img src="https://github.com/user-attachments/assets/63fbd265-0bc9-4daf-9016-72e030cbde4e" alt="My Profile Banner" width="100%">
 </p>
 
 ## About me
