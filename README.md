@@ -1,6 +1,6 @@
-<div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/3b90fc2c-5d52-4fde-bd0b-343a8399e5da" /> 
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3b90fc2c-5d52-4fde-bd0b-343a8399e5da" alt="My Profile Banner" width="100%">
+</p>
 
 ## About me
 I’m Martin, a senior CS student with backend development experience. 
