@@ -11,13 +11,13 @@ I am currently enrolled in a computer security course, so I am excited to see wh
 
 Feel free to reach me at tejada.mrt@gmail.com, and to take a look around my repositories! 
 
-## Previous Work
+## Previous work
 **Backend Developer @ Dazia Consulting Inc.**
 * Expanded and deployed an AI-powered learning platform from prototype to production in JavaScript with Node.js.
 * Built and improved backend systems, including multi-turn conversational memory, tested and ensured application behaviors works as intended.
 * Designed the application database (with Supabase) and implemented CRUD APIs for chat, flashcards, and quiz features.
 
-## Some Projects
+## Some projects
 
 **[3D Simulation Engine (ongoing development)](https://github.com/mart-codes-good/3D-Simulation-Engine-Alpaca-Engine-1)** <br>
 * A first-person simulation engine written in C using OpenGL.<br>
