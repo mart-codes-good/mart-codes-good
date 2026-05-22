@@ -18,14 +18,13 @@ Feel free to reach me at tejada.mrt@gmail.com, and to take a look around my repo
 * Designed the application database (with Supabase) and implemented CRUD APIs for chat, flashcards, and quiz features.
 
 ## Some projects
+**[Malicious URL Detector](https://github.com/mart-codes-good/Malicious-URL-Detector)**
+* Trained a Random Forest classifier on 6,000 URLs to detect malicious links with a recall of 0.88 for malicious URLs
+* Used a sentence embedding model to convert raw URL strings into numerical vectors for model input
 
 **[3D Simulation Engine (ongoing development)](https://github.com/mart-codes-good/3D-Simulation-Engine-Alpaca-Engine-1)** <br>
 * A first-person simulation engine written in C using OpenGL.<br>
 * Includes original camera movement, AABB collision detection, and hitscan libraries.
-
-**[IDP (Intelligent Document Processor) Assistant](https://github.com/mart-codes-good/Smart-PDF-Assistant-IDP-)** <br>
-* A system that scans PDF files and uses them to provide context for a conversational chatbot assistant to answer specific queries about such files, with a UI designed and implemented using Gradio. <br>
-* Uses Hugging Face embedding models with Llama Index for retrieval augmented generation (RAG) and uses PyMuPDF for character recognition (OCR).
 
 **[Context-Aware AI Chatbot](https://github.com/mart-codes-good/AI-Chatbot---Ranran-Chatbot)** <br>
 * Desktop chatbot with multi-turn memory built using both Python and OpenAI API.<br>
