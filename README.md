@@ -7,7 +7,7 @@ I’m Martin, a senior CS student with backend development experience.
 
 Most of my work ranges from AI systems, model analysis, physics simulations, game development, and general software development.  
 
-I am currently enrolled in a computer security course, so I am excited to see what I will learn and what projects I can build.
+I am currently enrolled in a computer security and software design course, so I am excited to see what I will learn and what projects I can build.
 
 Feel free to reach me at tejada.mrt@gmail.com, and to take a look around my repositories! 
 
