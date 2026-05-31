@@ -5,7 +5,7 @@
 ## About me
 I’m Martin, a senior CS student and backend software developer. 
 
-Most of my work ranges from AI systems, model analysis, physics simulations, game development, and general software development.  
+Most of my work ranges from AI systems, model analysis, physics simulations, game development, and full-stack development.  
 
 I am currently enrolled in a computer security and software design course, so I am excited to see what I will learn and what projects I can build.
 
