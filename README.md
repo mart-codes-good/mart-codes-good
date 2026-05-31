@@ -3,7 +3,7 @@
 </p>
 
 ## About me
-I’m Martin, a senior CS student with backend development experience. 
+I’m Martin, a senior CS student and backend software developer. 
 
 Most of my work ranges from AI systems, model analysis, physics simulations, game development, and general software development.  
 
