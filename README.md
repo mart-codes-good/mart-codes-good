@@ -3,24 +3,38 @@
 </p>
 
 ## About me
-I’m Martin, a senior CS student and backend software engineer. 
+I’m Martin, a senior CS student and backend software engineer with AI Engineering experience. 
 
-Most of my work ranges from AI systems, model analysis, physics simulations, game development, and full-stack development.  
+Most of my work ranges from AI systems, RAG pipelines, model analysis, machine learning projects, physics simulations, game development, and full-stack development.
 
 I am currently enrolled in a computer security and software design course, so I am excited to see what I will learn and what projects I can build.
 
-Feel free to reach me at tejada.mrt@gmail.com, and to take a look around my repositories! 
+Feel free to reach me at tejada.mrt@gmail.com, and take a look around my repositories! 
 
 ## Previous work
-**Backend Developer @ Dazia Consulting Inc.**
+**Backend Engineer @ Dazia Consulting Inc.**
 * Expanded and deployed an AI-powered learning platform from prototype to production in JavaScript with Node.js.
 * Built and improved backend systems, including multi-turn conversational memory, tested and ensured application behaviors works as intended.
 * Designed the application database (with Supabase) and implemented CRUD APIs for chat, flashcards, and quiz features.
 
-## Some projects
+**AI/ML Engineer Extern @ Extern hosted by Outamation (Project: Advanced AI-Powered Document Intelligence & Data Extraction)**
+* Built AI-powered document processing pipelines for data extraction, classification, and semantic search using Python, with OCR systems and structured parsing of mortgage documents.
+* Developed a RAG system using LlamaIndex and embedding-based search for contextual Q&A for users.
+* Conducted end-to-end evaluation of system performance on real-world mortgage documents, comparing model outputs and analyzing extraction accuracy, retrieval quality, and reliability across document types.
+
+## Machine Learning & Data Science Projects
 **[Malicious URL Detector](https://github.com/mart-codes-good/Malicious-URL-Detector)**
 * Trained a Random Forest classifier on 6,000 URLs to detect malicious links with a recall of 0.88 for malicious URLs
 * Used a sentence embedding model to convert raw URL strings into numerical vectors for model input
+
+**[Linear Regression Model Recreation](https://github.com/mart-codes-good/Linear-Regression-Model-Recreation)**
+* Recreated the Linear Regression model (LRM) from scratch in Python and validated results with scikit-learn's LRM.
+* Implemented gradient descent and Mean Squared Error in a second rendition of the model.
+
+**[Gambler's Fallacy and The Regression Towards the Mean](https://github.com/mart-codes-good/Gambler-s-fallacy-and-the-regression-towards-the-mean)**
+* Built a Python simulation using NumPy and plotlib to demonstrate regression toward the mean, and clarified how it differs from the gambler's fallacy.
+
+## Some applications I made
 
 **[3D Simulation Engine (ongoing development)](https://github.com/mart-codes-good/3D-Simulation-Engine-Alpaca-Engine-1)** <br>
 * A first-person simulation engine written in C using OpenGL.<br>
