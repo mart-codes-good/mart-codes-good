@@ -3,13 +3,18 @@
 </p>
 
 ## About me
-I’m Martin, a senior CS student and backend software engineer with AI Engineering experience. 
+I'm Martin, a Machine Learning Engineer (MLE) with a focus in applied machine learning, MLOps, and data engineering. I also have experience working as a software engineer (mostly backend) through various projects and work experience.
 
-Most of my work ranges from AI systems, RAG pipelines, model analysis, machine learning projects, physics simulations, game development, and full-stack development.
+My work ranges from AI systems & pipelines, model analysis, machine learning projects, physics simulations, game design, and full-stack development.
 
-I am currently enrolled in a computer security and software design course, so I am excited to see what I will learn and what projects I can build.
+Currently, I am working on building an Augmented Reality application for OIS Designs that reconstructs scanned real-world environments into a 3D virtual map.
 
 Feel free to reach me at tejada.mrt@gmail.com, and take a look around my repositories! 
+
+## Current Work
+**Computer Vision & Spatial Computing Engineer @ OIS Designs**
+* Built a 3D spatial mapping pipeline for an iOS AR application, converting camera input into a structured 3D reconstructed room. 
+* Implemented object detection and spatial placement logic enabling users to add, move, and manipulate furniture within the reconstructed 3D environment.
 
 ## Previous work
 **Backend Engineer @ Dazia Consulting Inc.**
