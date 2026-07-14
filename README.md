@@ -12,7 +12,7 @@ Currently, I am working on building an Augmented Reality application for OIS Des
 Feel free to reach me at tejada.mrt@gmail.com, and take a look around my repositories! 
 
 ## Current Work
-**Computer Vision & Spatial Computing Engineer @ OIS Designs**
+**Computer Vision Engineer @ OIS Designs**
 * Built a 3D spatial mapping pipeline for an iOS AR application, converting camera input into a structured 3D reconstructed room. 
 * Implemented object detection and spatial placement logic enabling users to add, move, and manipulate furniture within the reconstructed 3D environment.
 
