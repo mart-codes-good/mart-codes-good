@@ -17,7 +17,7 @@ Feel free to reach me at tejada.mrt@gmail.com, and take a look around my reposit
 * Implemented object detection and spatial placement logic enabling users to add, move, and manipulate furniture within the reconstructed 3D environment.
 
 ## Previous work
-**Backend Engineer @ Dazia Consulting Inc.**
+**Backend Engineer @ Dazia Consulting Inc.** <br>
 **AI Engineer Externship @ Outamation via Extern**
 
 ### **Languages** <br>
