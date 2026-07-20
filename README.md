@@ -7,8 +7,6 @@ I'm Martin, a Machine Learning Engineer (MLE) with a focus in applied machine le
 
 My work ranges from AI systems & pipelines, model analysis, machine learning projects, physics simulations, game design, and full-stack development.
 
-Currently, I am working on building an Augmented Reality application for OIS Designs that reconstructs scanned real-world environments into a 3D virtual map.
-
 Feel free to reach me at tejada.mrt@gmail.com, and take a look around my repositories! 
 
 ## Current Work
