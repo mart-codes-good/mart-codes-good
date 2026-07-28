@@ -3,9 +3,11 @@
 </p>
 
 ## About me
-I'm Martin, a Machine Learning Engineer (MLE) with a focus in applied machine learning, MLOps, and data engineering. I also have experience working as a software engineer (mostly backend) through various projects and work experience.
+I'm Martin, a Machine Learning Engineer (MLE) with a focus in applied machine learning and computer vision. I also have experience working as a software engineer (mostly backend) through various projects and work experience.
 
-My work ranges from AI systems & pipelines, model analysis, machine learning projects, physics simulations, game design, and full-stack development.
+Most of my work ranges from building end-to-end ML pipelines, full-stack development, and system design.
+
+I also enjoy creating games, and working with 3D graphics/models to make nice looking physics simulations as a hobby.
 
 Feel free to reach me at tejada.mrt@gmail.com, and take a look around my repositories! 
 
