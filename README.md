@@ -17,7 +17,7 @@ Feel free to reach me at tejada.mrt@gmail.com, and take a look around my reposit
 * Fine-tuned a YOLO11n model deployed with Core ML using a 6.2K image dataset, improving detection accuracy (Mean AP50) from 0.34 to 0.64 and adding a custom bookshelf detection class.
 * Added live detections into the room by tracking objects across frames and calculating where they are during the scanning phase, so they are properly auto-placed as editable 3D assets.
 
-**IT Operations & Office Administrator** @ Arch Toronto for Stjb Parish
+**IT Operations & Office Administrator** @ Arch Toronto for St. Josephine Bakhita
 * Built full-stack Python applications to automate administrative tasks and improve office productivity for myself and fellow co-workers.
 * Used OCR and machine learning models to parse, extract, and digitize data from handwritten donation documents, to improve the manual data entry process to save time and reduce errors.
 * Provided IT support for staff and handled the migration of parish webmail infrastructure to a more reliable, cloud-based alternative.
