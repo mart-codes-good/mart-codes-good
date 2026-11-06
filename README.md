@@ -1,7 +1,4 @@
 <img width="1394" height="264" alt="image" src="https://github.com/user-attachments/assets/df95234c-6992-4e79-b593-8883de21b131" />
-
-
-
 ## About me
 I'm Martin, a Machine Learning Engineer (MLE) with a focus in applied machine learning and computer vision. I also have experience working as a software engineer (mostly backend) through various projects and work experience.
 
