@@ -1,8 +1,6 @@
 <img width="1394" height="264" alt="image" src="https://github.com/user-attachments/assets/df95234c-6992-4e79-b593-8883de21b131" />
 
 ## About me
-Hi!
-
 I'm Martin, a Machine Learning Engineer that is focused on computer vision and applied machine learning, with a secondary focus on back-end engineering.
 
 Some things I've worked on include an application that turns a camera scan into a scaled 3d model of a room, that also uses an object detector I trained to place detected furniture automatically. I also built an OCR pipeline that reads handwritten forms to reduce manual data entry time in half.
