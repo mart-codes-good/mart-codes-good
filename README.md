@@ -1,24 +1,20 @@
 <img width="1394" height="264" alt="image" src="https://github.com/user-attachments/assets/df95234c-6992-4e79-b593-8883de21b131" />
 
 ## About me
-I'm Martin, a Machine Learning Engineer (MLE) with a focus in applied machine learning and computer vision. I also have experience working as a software engineer (mostly backend) through various projects and work experience.
+Hi!
 
-Most of my work ranges from building end-to-end ML pipelines, full-stack development, and system design.
+I'm Martin, a Machine Learning Engineer that is focused on computer vision and applied machine learning, with a secondary focus on back-end engineering.
 
-I also enjoy creating games, and working with 3D graphics/models to make nice looking physics simulations as a hobby.
+Some things I've worked on include an application that turns a camera scan into a scaled 3d model of a room, that also uses an object detector I trained to place detected furniture automatically. I also built an OCR pipeline that reads handwritten forms to reduce manual data entry time in half.
 
-Feel free to reach me at tejada.mrt@gmail.com, and take a look around my repositories! 
+Outside of my usual work (and trying to reach Masters on Genji), I enjoy coding games, working with 3D graphics and making physics simulations. I also try to do at least one thing a day to keep my fundamentals sharp, like a math problem (linear algebra, calculus or probability) or reading up on computer science fundamentals.
 
-## Current Work
-**Computer Vision Engineer @ OIS Designs**
-* Built a 3D room-scanning pipeline (Swift, ARKit/RealityKit) for non-LiDAR iPhones that turns camera tracked nodes (floor points) into a properly scaled 2D floor plan and 3D room model.
-* Fine-tuned a YOLO11n model deployed with Core ML using a 6.2K image dataset, improving detection accuracy (Mean AP50) from 0.34 to 0.64 and adding a custom bookshelf detection class.
-* Added live detections into the room by tracking objects across frames and calculating where they are during the scanning phase, so they are properly auto-placed as editable 3D assets.
+Currently, I'm building a search-and-rescue detector that finds people in drone imagery, a small object detection problem where a person can take up less than 0.1% of the image. 
 
-**Solo Developer @ Arch Toronto for St. Josephine Bakhita**
-* Built full-stack Python applications to automate administrative tasks and improve office productivity for myself and fellow co-workers.
-* Used OCR and machine learning models to parse, extract, and digitize data from handwritten donation documents, to improve the manual data entry process to save time and reduce errors.
-* Provided IT support for staff and handled the migration of parish webmail infrastructure to a more reliable, cloud-based alternative.
+Feel free to reach me at tejada.mrt@gmail.com, or take a look around my repositories.
+
+* ML & CV: PyTorch, YOLO, Core ML, Open Cv, Hugging Face
+* Backend: Node.js, PostgreSQL, Docker
 
 ## **Languages** <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
